@@ -1,7 +1,9 @@
 body{
     background-color: #ddd;
     font-size: larger;
-
+    background-image: url("06.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
